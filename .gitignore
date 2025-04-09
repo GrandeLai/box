@@ -1,0 +1,12 @@
+#idea file
+.idea
+
+# develop temp folder.
+tmp
+
+# build execute file
+tank
+tank.exe
+
+# mac
+.DS_Store
